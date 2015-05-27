@@ -1,0 +1,1 @@
+var VIEWS_HIDES = angular.module("ViewsHide", []);
